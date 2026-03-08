@@ -192,7 +192,7 @@ Through this project, the following concepts were implemented:
 
 * Add monitoring using CloudWatch
 * Implement Terraform modules
-* Add automated testing in Jenkins pipeline
+* Add automated testing in Jenkins pipeline.
 * Implement multi-environment deployments (dev / staging / prod)
 
 ---
